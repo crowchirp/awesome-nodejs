@@ -44,7 +44,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 ## Async Control Flow
 
-*Libraries that help you manage asyncronous control flow and avoid callback hell.*
+*Libraries that help you manage asynchronous control flow and avoid callback hell.*
 
 * Callback-based:
     * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
@@ -77,13 +77,13 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries for building and task running*
 
 * [Browserify](http://browserify.org/) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
-* [Grunt.js](http://gruntjs.com/) - A task runner to ease epetitive tasks like unit testing, compilation and so on.
+* [Grunt.js](http://gruntjs.com/) - A task runner to ease repetitive tasks like unit testing, compilation and so on.
 * [Gulp.js](http://gulpjs.com/) - A streaming build system which use of streams and code-over-configuration.
 * [Nodemon](http://nodemon.io/) - A dev utility that monitor any changes in source and automatically restart server.
 
 ## Communication
 
-* [BinaryJS](http://binaryjs.com/) - BinaryJS is bidrectional realtime binary data with binary websockets
+* [BinaryJS](http://binaryjs.com/) - BinaryJS is bidirectional realtime binary data with binary websockets
 * [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 * [Socket.IO](http://socket.io/) - Websocket framework for Node and Javascript.
 * [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
@@ -336,7 +336,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 * [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
-* [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+* [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The de facto computer vision library.
 * [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 * [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 * [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
